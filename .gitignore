@@ -1,0 +1,38 @@
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# Python cache / build
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# -------------------------
+# Logs / Temp
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# Environment files (if any)
+# -------------------------
+.env
+.venv/
+venv/
