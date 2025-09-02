@@ -15,7 +15,7 @@ This repository contains data preparation, statistical analysis, and dashboard w
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/safe-harbour-data-analysis.git
+   git clone https://github.com/prongs1588/safe-harbour-data-analysis.git
 
 2. Navigate into the project folder:
 
